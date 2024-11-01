@@ -1,0 +1,5 @@
+trigger : Anil
+stages: 
+  dev
+  test
+  poc
